@@ -1,0 +1,7 @@
+<h1>{{{realestates.name}}}</h1>
+<img src="{{{realestates.thumb}}}" alt="{{{realestates.name}}}">
+{% for thumb in realestates.thumbs %}
+<img src="{{{thumb}}}" alt="{{{realestates.name}}}">
+{% endfor %}
+<pre>{{{realestates.description|safe}}}</p>
+<span>{{{realestates.price}}}</span>

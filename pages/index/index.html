@@ -1,0 +1,32 @@
+{% for plan in plans %}
+<a href="/plan/{{{plan.id}}}">
+	<h1>{{{plan.name}}}</h1>
+	<img src="{{{plan.thumb}}}" alt="{{{plan.name}}}">
+</a>
+{% endfor %}
+
+{% for article in articles %}
+<a href="/article/{{{article.id}}}">
+	<h1>{{{article.name}}}</h1>
+	<img src="{{{article.thumb}}}" alt="{{{article.name}}}">
+{% endfor %}
+
+{% for car in cars %}
+<a href="/car/{{{car.id}}}">
+	<h1>{{{car.name}}}</h1>
+	<img src="{{{car.thumb}}}" alt="{{{car.name}}}">
+</a>
+{% endfor %}
+
+{% for realestate in realestates %}
+<a href="/realestate/{{{realestate.id}}}">
+	<h1>{{{realestate.name}}}</h1>
+	<img src="{{{realestate.thumb}}}" alt="{{{realestate.name}}}">
+</a>
+{% endfor %}
+{% for service in services %}
+<a href="/service/{{{service.id}}}">
+	<h1>{{{service.name}}}</h1>
+	<img src="{{{service.thumb}}}" alt="{{{service.name}}}">
+</a>
+{% endfor %}

@@ -1,0 +1,6 @@
+{% for plan in plans %}
+<a href="/plan/{{{plan.id}}}">
+	<h1>{{{plan.name}}}</h1>
+	<img src="{{{plan.thumb}}}" alt="{{{plan.name}}}">
+</a>
+{% endfor %}

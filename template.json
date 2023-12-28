@@ -1,0 +1,208 @@
+{
+	"title": "Welcome to waw Template",
+	"description": "description",
+	"keywords": "keywords",
+	"prefix": "/template",
+	"picture": "picture",
+	"author": "author",
+	"moderators": [],
+	"scss": "scss/index.scss",
+	"variables": {
+		"primary_color": "#d3c9b7"
+	},
+	"store": {
+		"name": "Store Name",
+		"description": "Store Description"
+	},
+	"footer": {
+"plans": [
+      {
+        "id": "/product",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "product"
+      },
+      {
+        "id": "/product",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "product"
+      },
+      {
+        "id": "/product",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "product"
+      }
+    ],
+    "businesses": [
+      {
+        "id": "/product",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "product"
+      },
+      {
+        "id": "/product",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "product"
+      },
+      {
+        "id": "/product",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "product"
+      }
+    ],
+    "services": [
+      {
+        "id": "/service",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "service"
+      },
+      {
+        "id": "/service",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "service"
+      },
+      {
+        "id": "/service",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "service"
+      }
+    ],
+    "articles": [
+      {
+        "id": "/article",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "article"
+      },
+      {
+        "id": "/article",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "article"
+      },
+      {
+        "id": "/article",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "article"
+      }
+    ],
+	 "cars": [
+      {
+        "id": "/car",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "car"
+      },
+      {
+        "id": "/car",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "car"
+      },
+      {
+        "id": "/car",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "car"
+      }
+    ],
+	 "realestates": [
+      {
+        "id": "/realestate",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "realestate"
+      },
+      {
+        "id": "/realestate",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "realestate"
+      },
+      {
+        "id": "/realestate",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "realestate"
+      }
+    ]
+  },
+	"categories_articles": [
+		{
+			"name": "Category One",
+			"tags": [
+				{
+					"name": "Tag one"
+				}
+			]
+		}
+	],
+	"categories_plans": [
+		{
+			"name": "Category One",
+			"tags": [
+				{
+					"name": "Tag one"
+				}
+			]
+		}
+	],
+	"categories_businesses": [
+		{
+			"name": "Category One",
+			"tags": [
+				{
+					"name": "Tag one"
+				}
+			]
+		}
+	],
+	"categories_cars": [
+		{
+			"name": "Category One",
+			"tags": [
+				{
+					"name": "Tag one"
+				}
+			]
+		}
+	],
+	"categories_realestates": [
+		{
+			"name": "Category One",
+			"tags": [
+				{
+					"name": "Tag one"
+				}
+			]
+		}
+	],
+	"categories_services": [
+		{
+			"name": "Category One",
+			"tags": [
+				{
+					"name": "Tag one"
+				}
+			]
+		}
+	]
+}
